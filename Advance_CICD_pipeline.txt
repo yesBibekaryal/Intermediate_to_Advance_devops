@@ -1,4 +1,5 @@
-Day 1: Advanced CI/CD Pipelines
+Day 1: Advanced CI/CD Pipelines - Design and implement complex CI/CD pipelines with multiple environments.
+
 Overview
 Continuous Integration and Continuous Deployment (CI/CD) pipelines are essential for modern software development, enabling teams to automate the testing and deployment of applications across multiple environments. This guide will detail the design and implementation of complex CI/CD pipelines, focusing on multiple environments.
 
